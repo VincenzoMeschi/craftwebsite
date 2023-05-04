@@ -2331,7 +2331,7 @@ About
     display: inline-block;
     position: absolute;
     bottom: -120px;
-    left: 0;
+    left: 0;`
   }
   .about__area-right-content b {
     font-size: 40px;
