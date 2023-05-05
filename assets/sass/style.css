@@ -169,7 +169,6 @@ p {
   color: #686c73;
   font-family: "Inter", sans-serif;
   font-weight: 400;
-  text-transform: capitalize;
 }
 
 .t-left {
@@ -2310,7 +2309,7 @@ About
 }
 
 .about__area-right-image img {
-  max-width: 85%;
+  max-width: 100%;
 }
 
 @media (max-width: 991px) {
